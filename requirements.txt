@@ -1,0 +1,6 @@
+streamlit
+pandas
+streamlit-pandas-profiling
+awesome-streamlit 
+sklearn
+kneed
