@@ -19,6 +19,6 @@ def write():
     df = pd.read_csv(app.DATA_URL)
     st.text(f"Reporte generado a partir del URL: {app.DATA_URL}")
 
-  #pr = df.profile_report()
+  pr = df.profile_report()
 
-  #st_profile_report(pr)
+  st_profile_report(pr)
